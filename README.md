@@ -1,4 +1,4 @@
-# 3D-brain segmentation using deep neural network and Gaussian mixture model
+# 3D brain segmentation using deep neural network and Gaussian mixture model
 
 ## Introduction
 - Automatically segmenting important brain tissues such as gray matter (GM), white matter (WM), and cerebrospinal fluid (CSF) from high-quality magnetic resonance images (MRI) has played a crucial role in clinical diagnostics and neuroscience research for helping to assess many diseases.
